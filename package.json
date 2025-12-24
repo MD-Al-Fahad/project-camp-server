@@ -1,0 +1,20 @@
+{
+  "name": "projectmanagement",
+  "version": "1.0.0",
+  "description": "a project of backend for beginners",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "keywords": [
+    "Backend",
+    "API",
+    "creation"
+  ],
+  "author": "Al Fahad",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "3.7.4"
+  }
+}
